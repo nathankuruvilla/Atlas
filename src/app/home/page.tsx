@@ -13,7 +13,7 @@ const Home = () => {
 
       <main className="flex flex-col items-center justify-center flex-1 px-20 text-center">
         <h1 className="text-6xl font-bold">Welcome to My Book Catalog</h1>
-        <p className="mt-3 text-2xl">Catalog the books you've read and find new ones to read</p>
+        <p className="mt-3 text-2xl">Catalog the books you have read and find new ones to read</p>
       </main>
 
       <footer className="flex items-center justify-center w-full h-24 border-t">
